@@ -1,0 +1,9 @@
+{
+  "name": "ec2-dump",
+  "description": "dumps raw aws ec2 data to a json file",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "*"
+  }
+}
