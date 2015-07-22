@@ -3,6 +3,9 @@ dumps raw aws ec2 data to a json file
 
 ## To use
 
+### Set aws ENV to regions
+Update `enviromentAwsRegionMap.json` to map your enviroment to an AWS region.
+
 ### Install dependancies
 ```
 npm install
