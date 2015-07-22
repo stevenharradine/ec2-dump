@@ -28,5 +28,5 @@ node ec2-dump next
 
 #### getInstanceByTag
 ```
-node getInstanceByTag.js next ForgeBucket
+node getInstanceByTagName.js next ForgeBucket
 ```
