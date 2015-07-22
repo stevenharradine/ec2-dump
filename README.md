@@ -1,2 +1,20 @@
 # ec2-dump
-takes raw data about ec2 instances out of aws and saves as a json file
+dumps raw aws ec2 data to a json file
+
+## To use
+
+### Install dependancies
+```
+npm install
+```
+
+### Export your aws credentials
+```
+export AWS_ACCESS_KEY_ID=REDACT
+export AWS_SECRET_ACCESS_KEY=REDACT
+```
+
+### Run passing in enviroment to export
+```
+node ec2-dump next
+```
