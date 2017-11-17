@@ -2,5 +2,6 @@
   "next": "eu-west-1",
   "development": "us-west-1",
   "staging": "us-west-2",
-  "production": "us-east-1"
+  "production": "us-east-1",
+  "canada": "ca-central-1"
 }
